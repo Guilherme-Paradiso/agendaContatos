@@ -24,9 +24,6 @@ O projeto foi desenvolvido como prática pessoal para reforçar conceitos de pro
 
 ---
 
-
----
-
 ## ▶️ Como Executar
 
 1. Clone o repositório:
